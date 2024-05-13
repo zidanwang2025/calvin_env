@@ -1,3 +1,4 @@
 defaults:
   - cameras@static: static
+  - cameras@front: front
   - cameras@gripper: gripper
